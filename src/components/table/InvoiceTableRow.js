@@ -16,26 +16,30 @@ const styles = StyleSheet.create({
     textAlign: "left",
     borderRightColor: borderColor,
     borderRightWidth: 1,
-    paddingLeft: 8
+    paddingLeft: 8,
+    fontSize: 12,
   },
   qty: {
     width: "10%",
     borderRightColor: borderColor,
     borderRightWidth: 1,
     textAlign: "right",
-    paddingRight: 8
+    paddingRight: 8,
+    fontSize: 12,
   },
   rate: {
     width: "15%",
     borderRightColor: borderColor,
     borderRightWidth: 1,
     textAlign: "right",
-    paddingRight: 8
+    paddingRight: 8,
+    fontSize: 12,
   },
   amount: {
     width: "15%",
     textAlign: "right",
-    paddingRight: 8
+    paddingRight: 8,
+    fontSize: 12,
   }
 });
 
